@@ -1,4 +1,4 @@
 # NHS Talking Therapies for Anxiety and Depression
 ## Social/Personal Circumstance Dashboard
 
-- This dashboard is hosted on FutureNHS: https://future.nhs.uk/NHSTalkingTherapies/view?objectID=34899408
+- This repository has been archived in December 2023 and replaced by http://tinyurl.com/GitHub-SocPerCirc
